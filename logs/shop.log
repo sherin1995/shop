@@ -1,0 +1,158 @@
+INFO 2022-07-24 13:02:04,694 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-24 13:02:10,354 basehttp 187 "GET / HTTP/1.1" 200 10697
+INFO 2022-07-24 13:02:10,493 basehttp 187 "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+INFO 2022-07-24 13:02:10,696 basehttp 187 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+INFO 2022-07-24 13:02:10,701 basehttp 187 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+INFO 2022-07-24 13:02:10,706 basehttp 187 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+INFO 2022-07-24 13:09:04,483 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-24 13:10:35,785 autoreload 266 D:\PycharmProjects\djangoDemo\shop\shop\settings.py changed, reloading.
+INFO 2022-07-24 13:10:36,991 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-24 13:11:50,658 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-24 13:11:52,867 basehttp 187 "GET / HTTP/1.1" 200 10697
+INFO 2022-07-24 13:12:04,735 basehttp 187 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2022-07-24 13:15:29,881 autoreload 266 D:\PycharmProjects\djangoDemo\shop\shop\settings.py changed, reloading.
+INFO 2022-07-24 13:15:31,084 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-24 13:51:38,898 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-24 13:51:53,587 basehttp 187 "GET / HTTP/1.1" 200 10697
+INFO 2022-07-24 13:53:27,692 autoreload 266 D:\PycharmProjects\djangoDemo\shop\shop\settings.py changed, reloading.
+INFO 2022-07-24 13:53:29,205 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-24 14:00:48,567 autoreload 266 D:\PycharmProjects\djangoDemo\shop\shop\urls.py changed, reloading.
+INFO 2022-07-24 14:00:50,000 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-24 14:01:01,270 autoreload 266 D:\PycharmProjects\djangoDemo\shop\shop\urls.py changed, reloading.
+INFO 2022-07-24 14:01:02,547 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-24 14:01:40,990 autoreload 266 D:\PycharmProjects\djangoDemo\shop\shop\urls.py changed, reloading.
+INFO 2022-07-24 14:01:42,672 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-24 14:01:47,305 autoreload 266 D:\PycharmProjects\djangoDemo\shop\shop\urls.py changed, reloading.
+INFO 2022-07-24 14:01:49,172 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-24 14:01:56,970 autoreload 677 Watching for file changes with StatReloader
+WARNING 2022-07-24 14:02:00,045 log 241 Not Found: /
+WARNING 2022-07-24 14:02:00,046 basehttp 187 "GET / HTTP/1.1" 404 2163
+INFO 2022-07-24 14:02:16,073 basehttp 187 "GET /users/register HTTP/1.1" 301 0
+INFO 2022-07-24 14:02:16,086 basehttp 187 "GET /users/register/ HTTP/1.1" 200 2969
+WARNING 2022-07-24 14:02:16,165 log 241 Not Found: /users/static/css/main.css
+WARNING 2022-07-24 14:02:16,169 log 241 Not Found: /users/static/css/reset.css
+WARNING 2022-07-24 14:02:16,170 basehttp 187 "GET /users/static/css/main.css HTTP/1.1" 404 2329
+WARNING 2022-07-24 14:02:16,171 basehttp 187 "GET /users/static/css/reset.css HTTP/1.1" 404 2332
+WARNING 2022-07-24 14:02:16,240 log 241 Not Found: /users/static/images/1.png
+WARNING 2022-07-24 14:02:16,242 log 241 Not Found: /users/static/images/pic_code.jpg
+WARNING 2022-07-24 14:02:16,243 basehttp 187 "GET /users/static/images/1.png HTTP/1.1" 404 2329
+WARNING 2022-07-24 14:02:16,245 basehttp 187 "GET /users/static/images/pic_code.jpg HTTP/1.1" 404 2350
+INFO 2022-07-24 18:37:45,052 autoreload 266 D:\PycharmProjects\djangoDemo\shop\apps\users\urls.py changed, reloading.
+INFO 2022-07-24 18:37:45,961 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-24 18:44:41,116 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-24 18:44:45,737 basehttp 187 "GET /users/register/ HTTP/1.1" 200 2969
+WARNING 2022-07-24 18:44:45,812 log 241 Not Found: /users/static/css/reset.css
+WARNING 2022-07-24 18:44:45,815 log 241 Not Found: /users/static/css/main.css
+WARNING 2022-07-24 18:44:45,817 basehttp 187 "GET /users/static/css/reset.css HTTP/1.1" 404 2332
+WARNING 2022-07-24 18:44:45,819 basehttp 187 "GET /users/static/css/main.css HTTP/1.1" 404 2329
+WARNING 2022-07-24 18:44:45,894 log 241 Not Found: /users/static/images/1.png
+WARNING 2022-07-24 18:44:45,898 log 241 Not Found: /users/static/images/pic_code.jpg
+WARNING 2022-07-24 18:44:45,899 basehttp 187 "GET /users/static/images/1.png HTTP/1.1" 404 2329
+WARNING 2022-07-24 18:44:45,900 basehttp 187 "GET /users/static/images/pic_code.jpg HTTP/1.1" 404 2350
+INFO 2022-07-24 18:44:46,472 basehttp 187 "GET /users/register/ HTTP/1.1" 200 2969
+WARNING 2022-07-24 18:44:46,510 log 241 Not Found: /users/static/css/reset.css
+WARNING 2022-07-24 18:44:46,514 log 241 Not Found: /users/static/css/main.css
+WARNING 2022-07-24 18:44:46,516 basehttp 187 "GET /users/static/css/reset.css HTTP/1.1" 404 2332
+WARNING 2022-07-24 18:44:46,517 basehttp 187 "GET /users/static/css/main.css HTTP/1.1" 404 2329
+WARNING 2022-07-24 18:44:46,608 log 241 Not Found: /users/static/images/1.png
+WARNING 2022-07-24 18:44:46,612 log 241 Not Found: /users/static/images/pic_code.jpg
+WARNING 2022-07-24 18:44:46,614 basehttp 187 "GET /users/static/images/1.png HTTP/1.1" 404 2329
+WARNING 2022-07-24 18:44:46,617 basehttp 187 "GET /users/static/images/pic_code.jpg HTTP/1.1" 404 2350
+INFO 2022-07-24 18:51:40,952 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-24 18:51:44,215 basehttp 187 "GET /users/register/ HTTP/1.1" 200 3776
+WARNING 2022-07-24 18:51:44,279 log 241 Not Found: /users/register/{ % static '/css/reset.css' % }
+WARNING 2022-07-24 18:51:44,281 log 241 Not Found: /users/register/{ % static '/css/main.css' % }
+WARNING 2022-07-24 18:51:44,282 basehttp 187 "GET /users/register/%7B%20%%20static%20'/css/reset.css'%20%%20%7D HTTP/1.1" 404 2440
+WARNING 2022-07-24 18:51:44,284 basehttp 187 "GET /users/register/%7B%20%%20static%20'/css/main.css'%20%%20%7D HTTP/1.1" 404 2437
+WARNING 2022-07-24 18:51:44,335 log 241 Not Found: /users/register/{ % static '/images/1.png' % }
+WARNING 2022-07-24 18:51:44,337 log 241 Not Found: /users/register/{ % static '/images/pic_code.jpg' % }
+WARNING 2022-07-24 18:51:44,339 basehttp 187 "GET /users/register/%7B%20%%20static%20'/images/1.png'%20%%20%7D HTTP/1.1" 404 2437
+WARNING 2022-07-24 18:51:44,339 basehttp 187 "GET /users/register/%7B%20%%20static%20'/images/pic_code.jpg'%20%%20%7D HTTP/1.1" 404 2458
+INFO 2022-07-24 18:51:44,959 basehttp 187 "GET /users/register/ HTTP/1.1" 200 3776
+WARNING 2022-07-24 18:51:45,014 log 241 Not Found: /users/register/{ % static '/css/reset.css' % }
+WARNING 2022-07-24 18:51:45,016 log 241 Not Found: /users/register/{ % static '/css/main.css' % }
+WARNING 2022-07-24 18:51:45,017 basehttp 187 "GET /users/register/%7B%20%%20static%20'/css/reset.css'%20%%20%7D HTTP/1.1" 404 2440
+WARNING 2022-07-24 18:51:45,018 basehttp 187 "GET /users/register/%7B%20%%20static%20'/css/main.css'%20%%20%7D HTTP/1.1" 404 2437
+WARNING 2022-07-24 18:51:45,110 log 241 Not Found: /users/register/{ % static '/images/pic_code.jpg' % }
+WARNING 2022-07-24 18:51:45,112 log 241 Not Found: /users/register/{ % static '/images/1.png' % }
+WARNING 2022-07-24 18:51:45,114 basehttp 187 "GET /users/register/%7B%20%%20static%20'/images/pic_code.jpg'%20%%20%7D HTTP/1.1" 404 2458
+WARNING 2022-07-24 18:51:45,116 basehttp 187 "GET /users/register/%7B%20%%20static%20'/images/1.png'%20%%20%7D HTTP/1.1" 404 2437
+INFO 2022-07-24 18:51:45,543 basehttp 187 "GET /users/register/ HTTP/1.1" 200 3776
+WARNING 2022-07-24 18:51:45,589 log 241 Not Found: /users/register/{ % static '/css/reset.css' % }
+WARNING 2022-07-24 18:51:45,591 log 241 Not Found: /users/register/{ % static '/css/main.css' % }
+WARNING 2022-07-24 18:51:45,592 basehttp 187 "GET /users/register/%7B%20%%20static%20'/css/reset.css'%20%%20%7D HTTP/1.1" 404 2440
+WARNING 2022-07-24 18:51:45,596 basehttp 187 "GET /users/register/%7B%20%%20static%20'/css/main.css'%20%%20%7D HTTP/1.1" 404 2437
+WARNING 2022-07-24 18:51:45,660 log 241 Not Found: /users/register/{ % static '/images/pic_code.jpg' % }
+WARNING 2022-07-24 18:51:45,662 log 241 Not Found: /users/register/{ % static '/images/1.png' % }
+WARNING 2022-07-24 18:51:45,664 basehttp 187 "GET /users/register/%7B%20%%20static%20'/images/pic_code.jpg'%20%%20%7D HTTP/1.1" 404 2458
+WARNING 2022-07-24 18:51:45,665 basehttp 187 "GET /users/register/%7B%20%%20static%20'/images/1.png'%20%%20%7D HTTP/1.1" 404 2437
+INFO 2022-07-24 18:51:46,204 basehttp 187 "GET /users/register/ HTTP/1.1" 200 3776
+WARNING 2022-07-24 18:51:46,244 log 241 Not Found: /users/register/{ % static '/css/reset.css' % }
+WARNING 2022-07-24 18:51:46,247 log 241 Not Found: /users/register/{ % static '/css/main.css' % }
+WARNING 2022-07-24 18:51:46,248 basehttp 187 "GET /users/register/%7B%20%%20static%20'/css/reset.css'%20%%20%7D HTTP/1.1" 404 2440
+WARNING 2022-07-24 18:51:46,248 basehttp 187 "GET /users/register/%7B%20%%20static%20'/css/main.css'%20%%20%7D HTTP/1.1" 404 2437
+WARNING 2022-07-24 18:51:46,327 log 241 Not Found: /users/register/{ % static '/images/1.png' % }
+WARNING 2022-07-24 18:51:46,329 log 241 Not Found: /users/register/{ % static '/images/pic_code.jpg' % }
+WARNING 2022-07-24 18:51:46,333 basehttp 187 "GET /users/register/%7B%20%%20static%20'/images/1.png'%20%%20%7D HTTP/1.1" 404 2437
+WARNING 2022-07-24 18:51:46,334 basehttp 187 "GET /users/register/%7B%20%%20static%20'/images/pic_code.jpg'%20%%20%7D HTTP/1.1" 404 2458
+INFO 2022-07-24 18:55:12,897 basehttp 187 "GET /users/register/ HTTP/1.1" 200 3772
+WARNING 2022-07-24 18:55:12,944 log 241 Not Found: /users/register/{ % static 'css/main.css' % }
+WARNING 2022-07-24 18:55:12,947 log 241 Not Found: /users/register/{ % static 'css/reset.css' % }
+WARNING 2022-07-24 18:55:12,950 basehttp 187 "GET /users/register/%7B%20%%20static%20'css/main.css'%20%%20%7D HTTP/1.1" 404 2434
+WARNING 2022-07-24 18:55:12,951 basehttp 187 "GET /users/register/%7B%20%%20static%20'css/reset.css'%20%%20%7D HTTP/1.1" 404 2437
+WARNING 2022-07-24 18:55:13,117 log 241 Not Found: /users/register/{ % static 'images/pic_code.jpg' % }
+WARNING 2022-07-24 18:55:13,125 log 241 Not Found: /users/register/{ % static 'images/1.png' % }
+WARNING 2022-07-24 18:55:13,129 basehttp 187 "GET /users/register/%7B%20%%20static%20'images/pic_code.jpg'%20%%20%7D HTTP/1.1" 404 2455
+WARNING 2022-07-24 18:55:13,132 basehttp 187 "GET /users/register/%7B%20%%20static%20'images/1.png'%20%%20%7D HTTP/1.1" 404 2434
+INFO 2022-07-24 18:55:13,715 basehttp 187 "GET /users/register/ HTTP/1.1" 200 3772
+WARNING 2022-07-24 18:55:13,766 log 241 Not Found: /users/register/{ % static 'css/reset.css' % }
+WARNING 2022-07-24 18:55:13,770 log 241 Not Found: /users/register/{ % static 'css/main.css' % }
+WARNING 2022-07-24 18:55:13,774 basehttp 187 "GET /users/register/%7B%20%%20static%20'css/reset.css'%20%%20%7D HTTP/1.1" 404 2437
+WARNING 2022-07-24 18:55:13,776 basehttp 187 "GET /users/register/%7B%20%%20static%20'css/main.css'%20%%20%7D HTTP/1.1" 404 2434
+WARNING 2022-07-24 18:55:13,939 log 241 Not Found: /users/register/{ % static 'images/1.png' % }
+WARNING 2022-07-24 18:55:13,947 log 241 Not Found: /users/register/{ % static 'images/pic_code.jpg' % }
+WARNING 2022-07-24 18:55:13,948 basehttp 187 "GET /users/register/%7B%20%%20static%20'images/1.png'%20%%20%7D HTTP/1.1" 404 2434
+WARNING 2022-07-24 18:55:13,951 basehttp 187 "GET /users/register/%7B%20%%20static%20'images/pic_code.jpg'%20%%20%7D HTTP/1.1" 404 2455
+INFO 2022-07-24 18:55:14,489 basehttp 187 "GET /users/register/ HTTP/1.1" 200 3772
+WARNING 2022-07-24 18:55:14,530 log 241 Not Found: /users/register/{ % static 'css/reset.css' % }
+WARNING 2022-07-24 18:55:14,534 log 241 Not Found: /users/register/{ % static 'css/main.css' % }
+WARNING 2022-07-24 18:55:14,535 basehttp 187 "GET /users/register/%7B%20%%20static%20'css/reset.css'%20%%20%7D HTTP/1.1" 404 2437
+WARNING 2022-07-24 18:55:14,538 basehttp 187 "GET /users/register/%7B%20%%20static%20'css/main.css'%20%%20%7D HTTP/1.1" 404 2434
+WARNING 2022-07-24 18:55:14,606 log 241 Not Found: /users/register/{ % static 'images/1.png' % }
+WARNING 2022-07-24 18:55:14,609 log 241 Not Found: /users/register/{ % static 'images/pic_code.jpg' % }
+WARNING 2022-07-24 18:55:14,610 basehttp 187 "GET /users/register/%7B%20%%20static%20'images/1.png'%20%%20%7D HTTP/1.1" 404 2434
+WARNING 2022-07-24 18:55:14,612 basehttp 187 "GET /users/register/%7B%20%%20static%20'images/pic_code.jpg'%20%%20%7D HTTP/1.1" 404 2455
+INFO 2022-07-24 18:55:26,150 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-07-24 18:55:29,547 basehttp 187 "GET /users/register/ HTTP/1.1" 200 3772
+WARNING 2022-07-24 18:55:29,641 log 241 Not Found: /users/register/{ % static 'css/main.css' % }
+WARNING 2022-07-24 18:55:29,649 log 241 Not Found: /users/register/{ % static 'css/reset.css' % }
+WARNING 2022-07-24 18:55:29,652 basehttp 187 "GET /users/register/%7B%20%%20static%20'css/main.css'%20%%20%7D HTTP/1.1" 404 2434
+WARNING 2022-07-24 18:55:29,657 basehttp 187 "GET /users/register/%7B%20%%20static%20'css/reset.css'%20%%20%7D HTTP/1.1" 404 2437
+WARNING 2022-07-24 18:55:29,812 log 241 Not Found: /users/register/{ % static 'images/pic_code.jpg' % }
+WARNING 2022-07-24 18:55:29,817 log 241 Not Found: /users/register/{ % static 'images/1.png' % }
+WARNING 2022-07-24 18:55:29,819 basehttp 187 "GET /users/register/%7B%20%%20static%20'images/pic_code.jpg'%20%%20%7D HTTP/1.1" 404 2455
+WARNING 2022-07-24 18:55:29,825 basehttp 187 "GET /users/register/%7B%20%%20static%20'images/1.png'%20%%20%7D HTTP/1.1" 404 2434
+INFO 2022-07-24 18:55:30,528 basehttp 187 "GET /users/register/ HTTP/1.1" 200 3772
+WARNING 2022-07-24 18:55:30,569 log 241 Not Found: /users/register/{ % static 'css/reset.css' % }
+WARNING 2022-07-24 18:55:30,570 log 241 Not Found: /users/register/{ % static 'css/main.css' % }
+WARNING 2022-07-24 18:55:30,571 basehttp 187 "GET /users/register/%7B%20%%20static%20'css/reset.css'%20%%20%7D HTTP/1.1" 404 2437
+WARNING 2022-07-24 18:55:30,572 basehttp 187 "GET /users/register/%7B%20%%20static%20'css/main.css'%20%%20%7D HTTP/1.1" 404 2434
+WARNING 2022-07-24 18:55:30,657 log 241 Not Found: /users/register/{ % static 'images/1.png' % }
+WARNING 2022-07-24 18:55:30,659 log 241 Not Found: /users/register/{ % static 'images/pic_code.jpg' % }
+WARNING 2022-07-24 18:55:30,660 basehttp 187 "GET /users/register/%7B%20%%20static%20'images/1.png'%20%%20%7D HTTP/1.1" 404 2434
+WARNING 2022-07-24 18:55:30,661 basehttp 187 "GET /users/register/%7B%20%%20static%20'images/pic_code.jpg'%20%%20%7D HTTP/1.1" 404 2455
+INFO 2022-07-24 18:56:54,117 basehttp 187 "GET /users/register/ HTTP/1.1" 200 3736
+INFO 2022-07-24 18:56:54,338 basehttp 187 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2022-07-24 18:56:54,348 basehttp 187 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2022-07-24 18:56:54,373 basehttp 187 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2022-07-24 18:56:54,376 basehttp 187 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2022-07-24 18:56:54,377 basehttp 187 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2022-07-24 18:56:54,423 basehttp 187 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+WARNING 2022-07-24 18:57:05,028 log 241 Not Found: /
+WARNING 2022-07-24 18:57:05,033 basehttp 187 "GET / HTTP/1.1" 404 2163
+WARNING 2022-07-24 18:57:17,551 log 241 Not Found: /users/register/login.html
+WARNING 2022-07-24 18:57:17,551 basehttp 187 "GET /users/register/login.html HTTP/1.1" 404 2329
+WARNING 2022-07-24 18:57:29,442 log 241 Forbidden (CSRF cookie not set.): /users/register/
+WARNING 2022-07-24 18:57:29,443 basehttp 187 "POST /users/register/ HTTP/1.1" 403 2870
+INFO 2022-07-24 19:02:21,348 autoreload 266 D:\PycharmProjects\djangoDemo\shop\apps\users\models.py changed, reloading.
+INFO 2022-07-24 19:02:22,544 autoreload 677 Watching for file changes with StatReloader
